@@ -1,1 +1,4 @@
-asdasdasd
+<?php
+	include index.html;
+
+?>
